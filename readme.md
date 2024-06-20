@@ -11,3 +11,7 @@
 ##  Видеоурок 6. Обучение с учителем в Scikit-learn.
 * Домашнее задание:  
 [Практическое задание](https://gbcdn.mrgcdn.ru/uploads/asset/5788496/attachment/d8fe09d4348597c3d8cf86f8d459dc5d.pdf).
+
+##  Видеоурок 8. Обучение без учителя в Scikit-learn.
+* Домашнее задание:  
+[Практическое задание](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgbcdn.mrgcdn.ru%2Fuploads%2Fasset%2F6052863%2Fattachment%2F610b114c26fc0132814851294b0967ed.docx&wdOrigin=BROWSELINK).
